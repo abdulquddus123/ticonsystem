@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:1:1-44:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.13.6.aar/d2a9b9f1733cb3e08c8ec3ce4260abca/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.test.espresso:espresso-core:3.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/espresso-core-3.0.2.aar/e4a7662e11b32b2e97ce139e90c45f2f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.test:rules:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/rules-1.0.2.aar/22171eaf1705d4349ebb2c3d522d9404/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9feaf2820c08b765635eae512f5136b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.test.uiautomator:uiautomator-v18:2.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/uiautomator-v18-2.0.0.aar/cf23c53bea716d4b5ab0774934a204cf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.13.6.aar/30a109686f5ebf0333111805690d076a/AndroidManifest.xml:2:1-4:80
+MERGED from [com.android.support.test:runner:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/4278c9a736b0ebfa8d9d3237c9df2095/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebf8527fef7bd8e0df2f8b1db599b439/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/areyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1cc98592d13ab4e310edd54f2b9cf0a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test:monitor:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/446098e90772d71b108d63c0e320052b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.2.aar/4c71deecb1e49eb91dd7d5b83a5da468/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:1:1-44:12
+	package
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:2:5-51
+	android:versionName
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:4:5-30
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:3:5-28
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:6:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.13.6.aar/d2a9b9f1733cb3e08c8ec3ce4260abca/AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.13.6.aar/d2a9b9f1733cb3e08c8ec3ce4260abca/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:7:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.13.6.aar/d2a9b9f1733cb3e08c8ec3ce4260abca/AndroidManifest.xml:7:5-78
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.13.6.aar/d2a9b9f1733cb3e08c8ec3ce4260abca/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:11:22-78
+application
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:13:5-42:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9feaf2820c08b765635eae512f5136b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9feaf2820c08b765635eae512f5136b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support.test.uiautomator:uiautomator-v18:2.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/uiautomator-v18-2.0.0.aar/cf23c53bea716d4b5ab0774934a204cf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.test.uiautomator:uiautomator-v18:2.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/uiautomator-v18-2.0.0.aar/cf23c53bea716d4b5ab0774934a204cf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebf8527fef7bd8e0df2f8b1db599b439/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebf8527fef7bd8e0df2f8b1db599b439/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9feaf2820c08b765635eae512f5136b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:15:9-35
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:14:9-38
+activity#com.amazonaws.demo.s3transferutility.MainActivity
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:18:19-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:22:27-74
+activity#com.amazonaws.demo.s3transferutility.DownloadActivity
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:25:9-27:57
+	android:label
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:27:13-54
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:26:13-81
+activity#com.amazonaws.demo.s3transferutility.UploadActivity
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:28:9-30:55
+	android:label
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:29:13-79
+activity#com.amazonaws.demo.s3transferutility.DownloadSelectionActivity
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:31:9-33:67
+	android:label
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:33:13-64
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:32:13-90
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:35:9-37:38
+	android:enabled
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:37:13-35
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:36:13-93
+service#com.amazonaws.demo.s3transferutility.MyService
+ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:39:9-41:38
+	android:enabled
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:41:13-35
+	android:name
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml:40:13-38
+uses-sdk
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.13.6.aar/d2a9b9f1733cb3e08c8ec3ce4260abca/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.13.6.aar/d2a9b9f1733cb3e08c8ec3ce4260abca/AndroidManifest.xml:4:5-73
+MERGED from [com.android.support.test.espresso:espresso-core:3.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/espresso-core-3.0.2.aar/e4a7662e11b32b2e97ce139e90c45f2f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-core:3.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/espresso-core-3.0.2.aar/e4a7662e11b32b2e97ce139e90c45f2f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:rules:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/rules-1.0.2.aar/22171eaf1705d4349ebb2c3d522d9404/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:rules:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/rules-1.0.2.aar/22171eaf1705d4349ebb2c3d522d9404/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-compat:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9feaf2820c08b765635eae512f5136b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9feaf2820c08b765635eae512f5136b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test.uiautomator:uiautomator-v18:2.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/uiautomator-v18-2.0.0.aar/cf23c53bea716d4b5ab0774934a204cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test.uiautomator:uiautomator-v18:2.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/uiautomator-v18-2.0.0.aar/cf23c53bea716d4b5ab0774934a204cf/AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.13.6.aar/30a109686f5ebf0333111805690d076a/AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.13.6] /home/areyen/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.13.6.aar/30a109686f5ebf0333111805690d076a/AndroidManifest.xml:4:1-69
+MERGED from [com.android.support.test:runner:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/4278c9a736b0ebfa8d9d3237c9df2095/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/4278c9a736b0ebfa8d9d3237c9df2095/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebf8527fef7bd8e0df2f8b1db599b439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/areyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ebf8527fef7bd8e0df2f8b1db599b439/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/areyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1cc98592d13ab4e310edd54f2b9cf0a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/areyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1cc98592d13ab4e310edd54f2b9cf0a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:monitor:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/446098e90772d71b108d63c0e320052b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:monitor:1.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/446098e90772d71b108d63c0e320052b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.2.aar/4c71deecb1e49eb91dd7d5b83a5da468/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] /home/areyen/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.2.aar/4c71deecb1e49eb91dd7d5b83a5da468/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+		ADDED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /home/areyen/Desktop/jj/S3TransferUtilitySample/AndroidManifest.xml
